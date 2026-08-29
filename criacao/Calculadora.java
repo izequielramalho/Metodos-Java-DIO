@@ -1,4 +1,4 @@
-package estudos.Izequiel.metódos;
+package estudos.Izequiel.metódos.criacao;
 
 /**
  * Classe de exemplo para o exercício da Aula 1 do Métodos.
